@@ -19,7 +19,7 @@ Read: [Publishing anything](http://meteorcapture.com/publishing-anything/) by [@
 - [ ] *Describe FastRender*  
 - [ ] *Describe SubsManager*
 - [ ] *Describe static data retrieval*  
-*One way is to use this.added described in Retrieving data from a 3rd party API*
+*One way is to use this.added described in Retrieving data from a 3rd party API*  
 *The other - through meteor methods*
  
 ## Security
