@@ -14,7 +14,7 @@ Information provided here comes from Meteor experts and is proven by positive us
 ##Performance
 - [ ] *Describe FastRender*  
 - [ ] *Describe SubsManager*
-- [ ] *Describe static data*
+- [ ] *Describe static data retrieval*
  
 ## Security
 - [ ] *Add [Josh Owen's](http://joshowens.me/) Security Checklist if he grants permission.*
