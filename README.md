@@ -1,4 +1,4 @@
-# Meteor-Best-Practices
+# Meteor Best Practices
 Hey, fellow Meteor developer!  
 Welcome to this humble place of Meteor knowledge :blush:
 
