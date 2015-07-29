@@ -9,7 +9,7 @@ Information provided here comes from Meteor experts and is proven by positive us
 - [ ] *Describe Component Design*  
 
 ##Data Management
-
+- [ ] *Describe Indexes*  
 
 ##Performance
 - [ ] *Describe FastRender*  
