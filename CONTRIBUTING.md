@@ -8,5 +8,5 @@ When submitting a Pull Request for a new Guide point:
 
 If you have a different opinion on any point of this Guide, start a discussion on the issue tracker.
 
-
+wakawaka
 *Typo PRs don't have to conform to these Guidelines :wink:*
