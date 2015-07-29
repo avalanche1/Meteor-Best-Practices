@@ -19,7 +19,7 @@ Read: [Publishing anything](http://meteorcapture.com/publishing-anything/) by [@
 - [ ] *Describe FastRender*  
 - [ ] *Describe SubsManager*
 - [ ] *Describe Using Static Data*  
-*This can help you save server overhead (for maintaining reactive connection to [hopefully:wink:] thousands of clients) if you publish to your page static data that shouldn't change during single user-session.*
+*This can help you save server overhead (for maintaining reactive connection to [hopefully:wink:] thousands of clients) if you publish to your page static data that shouldn't change during single user-session.*  
 *One way is to use this.added described in Retrieving data from a 3rd party API*  
 *The other - through meteor methods*
  
