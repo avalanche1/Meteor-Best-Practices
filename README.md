@@ -6,6 +6,8 @@ This Guide is intended to help Meteor developers share their best practices for 
 Information provided here comes from Meteor experts and is proven by positive usage experience in the Meteor community.  
 *Please note that some of the techniques may prove hard to grasp for Meteor beginners and moderate experience with Meteor is advised.*
 
+*This Guide is in it's infancy :baby: - PRs are very welcome*
+
 ##Application Design
 - [ ] *Describe Component Design*  
 
@@ -26,6 +28,10 @@ Read: [Publishing anything](http://meteorcapture.com/publishing-anything/) by [@
  
 ## Security
 - [ ] *Add [Josh Owen's](http://joshowens.me/) Security Checklist if he grants permission.*
+
+## Scaling
+- [ ] *Describe capacity scaling*
+- [ ] *Describe geographical scaling*
  
 ##Miscellaneous
 - [ ] *Add ref to https://github.com/oortcloud/unofficial-meteor-faq*
