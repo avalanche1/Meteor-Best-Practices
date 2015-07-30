@@ -6,7 +6,7 @@ This Guide is intended to help Meteor developers share their best practices for 
 Information provided here comes from Meteor experts and is proven by positive usage experience in the Meteor community.  
 *Please note that some of the techniques may prove hard to grasp for Meteor beginners and moderate experience with Meteor is advised.*
 
-*This Guide is in it's infancy :baby: - PRs are very welcome*
+*This Guide is in its infancy :baby: - PRs are very welcome*
 
 ##Application Design
 - [ ] *Describe Component Design*  
