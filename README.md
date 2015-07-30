@@ -15,7 +15,7 @@ Information provided here comes from Meteor experts and is proven by positive us
 - [ ] *Describe Indexes*  
 - [x] **Retrieving data from a 3rd party API or other non-Mongo source**  
 By default, data in publications come from MongoDB, but you can also publish data from other sources by using a `Client-only collection` and `this.added` call of the publication.  
-This solution also makes your data static (as there is no Server collection present), i.e. there are no reactive changes on the Client when data change in the datasource. This can help you save server overhead; see: *Performance - Using Static Data*  
+This solution also makes your data static (as there is no Server collection present), i.e. there are no reactive changes on the Client when data change in the datasource. ~~This can help you save server overhead; see: *Performance - Using Static Data*~~  
 Read: [Publishing anything](http://meteorcapture.com/publishing-anything/) by [@dburles](https://github.com/dburles)
 
 ##Performance
