@@ -40,7 +40,7 @@ Read: [Publishing anything](http://meteorcapture.com/publishing-anything/) by [@
 ##Hacks 
 :warning: *naturally* ***not*** *best practices, but may prove useful*:wink:
 - [ ] *Describe Meteor._sleepForMs(time)*  
-- [ ] *Describe Blaze._globalHelpers/['helper'/]()*  
+- [ ] *Describe Blaze._globalHelpers\['helper'\]()*  
 - [ ] *Describe T.__helpers.get('helper').call()*  
 - [ ] *Describe Meteor.defer()*   
 
