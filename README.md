@@ -42,5 +42,5 @@ Read: [Publishing anything](http://meteorcapture.com/publishing-anything/) by [@
 - [ ] *Describe Meteor._sleepForMs(time)*  
 - [ ] *Describe Blaze._globalHelpers['helper']()*  
 - [ ] *Describe T.__helpers.get('helper').call()*  
-- [ ] *Describe Meteor.defer()*
+- [ ] *Describe Meteor.defer()*  
 *Since those features are undocumented, their syntax may be modified or dropped altogether in the next update without any notice.* ***Use at your own discretion***
