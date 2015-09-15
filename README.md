@@ -17,6 +17,10 @@ Information provided here comes from Meteor experts and is proven by positive us
 By default, data in publications come from MongoDB, but you can also publish data from other sources by using a `Client-only collection` and `this.added` call of the publication.  
 This solution also makes your data static (as there is no Server collection present), i.e. there are no reactive changes on the Client when data change in the datasource.  
 Read: [Publishing anything](http://meteorcapture.com/publishing-anything/) by [@dburles](https://github.com/dburles)
+- [x] **Use RoboMongo to easily manage your MongoDB data**  
+RoboMongo offers a nice GUI to access both your local and remote databases  
+Read: [How to access MongoDB on Meteor via Robomongo in 3 Steps!](https://medium.com/@katopz/meteor-mongodb-35c96ad6e43e) by [@katopz](https://github.com/katopz)
+
 
 ##Performance
 - [ ] *Describe FastRender*  
