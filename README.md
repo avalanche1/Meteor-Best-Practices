@@ -9,7 +9,7 @@ Information provided here comes from Meteor experts and is proven by positive us
 *This Guide is in its infancy :baby: - PRs are very welcome*
 
 ##Application Design
-- [x] **Application structure**  
+- [x] **Choosing application structure**  
 Meteor doesn't enforce strict app structure, thus developer is free to make his own choice. In the screencast below you can learn about most common patterns for structuring your app.  
 Watch: [Project Structures & Load Order](https://www.meteorcasts.net/ep/10) by [@ManuelDeLeon](https://github.com/ManuelDeLeon)
 - [ ] *Describe Component Design*  
@@ -22,7 +22,7 @@ Watch: [Project Structures & Load Order](https://www.meteorcasts.net/ep/10) by [
 By default, data in publications come from MongoDB, but you can also publish data from other sources by using a `Client-only collection` and `this.added` call of the publication.  
 This solution also makes your data static (as there is no Server collection present), i.e. there are no reactive changes on the Client when data change in the datasource.  
 Read: [Publishing anything](http://meteorcapture.com/publishing-anything/) by [@dburles](https://github.com/dburles)
-- [x] **Use RoboMongo to easily manage your MongoDB data**  
+- [x] **Using RoboMongo to easily manage your MongoDB data**  
 RoboMongo offers a nice GUI to access both your local and remote databases.  
 Read: [How to access MongoDB on Meteor via Robomongo in 3 Steps!](https://medium.com/@katopz/meteor-mongodb-35c96ad6e43e) by [@katopz](https://github.com/katopz)
 
