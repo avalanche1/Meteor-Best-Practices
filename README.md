@@ -10,7 +10,7 @@ Information provided here comes from Meteor experts and is proven by positive us
 
 ##Application Design
 - [x] **Application structure**  
-Meteor doesn't enforce strict app structure, thus developer is free to make his own choice. In the screencast below you can learn about most common pattern for structuring your app.  
+Meteor doesn't enforce strict app structure, thus developer is free to make his own choice. In the screencast below you can learn about most common patterns for structuring your app.  
 Watch: [Project Structures & Load Order](https://www.meteorcasts.net/ep/10) by [@ManuelDeLeon](https://github.com/ManuelDeLeon)
 - [ ] *Describe Component Design*  
 
