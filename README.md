@@ -8,6 +8,9 @@ Information provided here comes from Meteor experts and is proven by positive us
 
 *This Guide is in its infancy :baby: - PRs are very welcome*
 
+##Development
+- [] *Describe updating to new version*  
+
 ##Application Design
 - [x] **Choosing application structure**  
 Meteor doesn't enforce strict app structure, thus developer is free to make his own choice. In the screencast below you can learn about most common patterns for structuring your app.  
