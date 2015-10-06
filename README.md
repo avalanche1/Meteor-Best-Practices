@@ -6,7 +6,7 @@ This Guide is intended to help Meteor developers share their best practices for 
 Information provided here comes from Meteor experts and is proven by positive usage experience in the Meteor community.  
 *Please note that some of the techniques may prove hard to grasp for Meteor beginners and moderate experience with Meteor is advised.*
 
-**TSince an official Meteor Guide has been [announced][1], we should all be contributing to it from now on.**
+**Since an official Meteor Guide has been [announced][1], we should all be contributing to it from now on.**
   [1]: https://forums.meteor.com/t/new-mdg-project-the-meteor-guide/10873
 
 ##Development
